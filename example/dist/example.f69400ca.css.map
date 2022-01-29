@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/styles.index.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA","file":"example.f69400ca.css","sourceRoot":"..","sourcesContent":["body.noscroll {\n  position: fixed;\n  overflow-y: scroll;\n  width: 100%;\n}\n"]}
